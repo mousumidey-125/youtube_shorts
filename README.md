@@ -10,7 +10,6 @@ git clone https://github.com/mousumidey-125/youtube_shorts.git
   
 ```
 npm install
-
 ```
 ```
 ng serve -o
