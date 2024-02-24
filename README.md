@@ -1,5 +1,5 @@
 # How to run the project
-## Clone the project
+* Clone the project
 
 ### git clone https://github.com/mousumidey-125/NoteCollection.git
 
