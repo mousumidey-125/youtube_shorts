@@ -5,10 +5,12 @@ git clone https://github.com/mousumidey-125/youtube_shorts.git
 
 ```
 
-## Frontend
+* Run the project 
 
-## Open Frontend folder in cmd and run the following commands
+  
+```
+npm install
+ng serve -o
 
-### npm install
-### ng serve -o
+```
 
